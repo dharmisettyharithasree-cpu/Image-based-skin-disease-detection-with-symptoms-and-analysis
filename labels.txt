@@ -1,0 +1,5 @@
+0 acne
+1 eczema
+2 normal
+3 psoriasis
+4 Class 5
